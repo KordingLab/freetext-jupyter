@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "freetext-jupyter"
+version = "0.1.0"
+description = "Freeform text feedback using kordinglab/freetext-server."
+authors = ["Jordan Matelsky <opensource@matelsky.com>"]
+license = "Apache 2.0"
+readme = "README.md"
+packages = [{include = "freetext_jupyter"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ipywidgets = "^8.0.6"
+requests = "^2.31.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
