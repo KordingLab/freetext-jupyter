@@ -45,7 +45,7 @@ class FreetextWidget:
         self,
         assignment_id: str,
         button_text="Submit",
-        server_base_url="http://localhost:9900",
+        server_base_url="https://llm4edu.experiments.kordinglab.com",
     ):
         self.assignment_id = assignment_id
         self.textbox = widgets.Textarea()
