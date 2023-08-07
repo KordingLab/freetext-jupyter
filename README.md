@@ -27,4 +27,21 @@ FreetextWidget(
 )
 ```
 
-https://github.com/KordingLab/fretext-jupyter/assets/693511/090a2445-7867-4428-a28a-d5f3a2c96f68
+https://github.com/KordingLab/freteext-jupyter/assets/693511/090a2445-7867-4428-a28a-d5f3a2c96f68
+
+
+## Our Paper 
+https://arxiv.org/abs/2308.02439
+
+If this work is useful to your research, please cite the following:
+
+```bibtex
+@misc{matelsky2023large,
+    title={A large language model-assisted education tool to provide feedback on open-ended responses}, 
+    author={Jordan K. Matelsky and Felipe Parodi and Tony Liu and Richard D. Lange and Konrad P. Kording},
+    year={2023},
+    eprint={2308.02439},
+    archivePrefix={arXiv},
+    primaryClass={cs.CY}
+}
+```
